@@ -1,2 +1,2 @@
-# pyhton-1
-homework
+ml modle for text
+
